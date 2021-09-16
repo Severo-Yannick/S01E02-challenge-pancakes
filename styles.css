@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: #fff3db;
+  width: 700px;
+  margin: auto;
+  padding: 1em;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  background-color: #f02425;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #f02425;
+}
+
+h3 {
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+em, strong {
+  color: #f02425;
+}
+
+em {
+  font-style: normal;
+}
+
+.superimportant {
+  color: #f02425;
+  font-weight: bold;
+}
+
+.important {
+  color: #f02425;
+}
+
+.underline {
+  text-decoration: underline;
+}
